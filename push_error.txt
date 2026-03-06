@@ -1,0 +1,10 @@
+Pushing to https://github.com/Mvanassai/Priavcy.git
+POST git-receive-pack (chunked)
+remote: warning: File ghost-profile-ui/.next/dev/cache/turbopack/23c46498/00001770.sst is 94.46 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: Trace: 4c3aaf133568019facd31de550c85375e8d77669c736eab6b60c44f51a4f1c75        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File ghost-profile-ui/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node is 122.06 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Mvanassai/Priavcy.git
+ ! [remote rejected]   main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/Mvanassai/Priavcy.git'
