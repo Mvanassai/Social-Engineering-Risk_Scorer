@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/c184a_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_40b87e07._.js",
+    "static/chunks/c184a_next_dist_compiled_react-dom_909d4ed4._.js",
+    "static/chunks/c184a_next_dist_compiled_react-server-dom-turbopack_4008becc._.js",
+    "static/chunks/c184a_next_dist_compiled_next-devtools_index_db52224a.js",
+    "static/chunks/c184a_next_dist_compiled_36195e88._.js",
+    "static/chunks/c184a_next_dist_client_9e13609f._.js",
+    "static/chunks/c184a_next_dist_17e20bb3._.js",
+    "static/chunks/c184a_@swc_helpers_cjs_46818561._.js",
+    "static/chunks/Priavcy_ghost-profile-ui_a0ff3932._.js",
+    "static/chunks/turbopack-Priavcy_ghost-profile-ui_f8d98cd5._.js"
+  ]
+}
